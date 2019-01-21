@@ -22,7 +22,7 @@ namespace OmatKotisivut.Controllers
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Yhteystiedot()
         {
             ViewData["Message"] = "Your contact page.";
 
